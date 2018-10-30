@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "cyejI0bcXBrdCmmbBNVzMNx7I80=",
+			"path": "github.com/gomodule/redigo/redis",
+			"revision": "b9037db4b8b9ef501f28279160ab1a73a2de59ec",
+			"revisionTime": "2018-10-12T23:15:13Z"
+		}
+	],
+	"rootPath": "github.com/omgzui/go-demo"
+}
